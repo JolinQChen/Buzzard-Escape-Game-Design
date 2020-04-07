@@ -1,4 +1,4 @@
-# Buzzard-Escape-Game-Design
+# Solaris Escape 4.6 edition (for MacOS)
 https://drive.google.com/open?id=17mXprKQ5hXjwW9kfQFn3p7owSKf0jo2m
 
 This is an escape game designed with Unity Game Engines, let's test it out on your MacOS!
